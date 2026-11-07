@@ -1,0 +1,23 @@
+# 编译产物
+/bin/
+/dist/
+/music163-mcp
+/music163-mcp.exe
+
+# 测试产物
+*.test
+*.out
+*.prof
+
+# 本地配置、下载的音频
+mcp.toml
+config.toml
+*.flac
+*.mp3
+*.lrc
+*.bak
+
+# 编辑器
+/.idea/
+/.vscode/
+.DS_Store
